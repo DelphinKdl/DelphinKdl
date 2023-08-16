@@ -1,5 +1,4 @@
 ### Hi 👋, I'm Delphin Juma Kaduli
-### Skills Excel | SQL | Tableau | Power BI | Python
 <!--
 **DelphinKdl/DelphinKdl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
