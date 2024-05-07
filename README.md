@@ -1,11 +1,9 @@
 ### Hi 👋, I'm Delphin Juma Kaduli
 
 ### About 
-- 🌱 I’m currently learning Python 
 -  👯 I’m looking to collaborate on projects that leverage Data analysis and ML
 - ⚡ Fun fact: I love Data Science, Data Security and Data Visualization
   ### lasted posts
-
 
   ### 
 ### Usage
