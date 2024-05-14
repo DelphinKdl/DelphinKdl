@@ -2,7 +2,7 @@
 
 ### About 
 -  👯 I’m looking to collaborate on projects that leverage Data analysis and ML
-- ⚡ Fun fact: I love Data Science, Data Security and Data Visualization
+- ⚡ Fun fact: I love Data Science and Analytics, Data Security and Data Visualization
   ### lasted posts
 
   ### 
