@@ -1,5 +1,5 @@
-<h2 align="center">Hi there  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, you can call me Delphin Kaduli </h2>
-<h4 align="center">A passionate data scientist and Analyst skilled in Python, SQL, Machine learning, Tableau, Power BI and Excel</h4>
+<h2 align="center">Hi there  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, you can call me <b color="blue">Delphin Kaduli</b></h2>
+<h4 align="center">A passionate data scientist and Analyst skilled in Python, SQL, Machine learning, Tableau, Power BI, and Excel</h4>
 <br>
 
 -  💬 Ask me about Data science, analytics, and Machine learning.
