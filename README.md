@@ -3,8 +3,8 @@
 <br>
 
 ### -  💬 Ask me about Data science, analytics, and Machine learning.
-### - 🌱 I’m currently learning and interested in data scientist and Analyst and  Machine Learning
-### - 👯 I’m looking to collaborate on projects that leverage Analytics and Machine learning
+### - 🌱 I’m currently learning and interested in data science, analysis, and  Machine Learning.
+### - 👯 I want to collaborate on projects that leverage Analytics and Machine learning.
 ### - 📫How to reach me: Email delphin.kaduli@gmail.com
 <!-- ### My Stats ->
 <!-- ![DelphinKdl's GitHub stats](https://github-readme-stats.vercel.app/api?username=DelphinKdl&theme=transparent&show_icons=true) ->
