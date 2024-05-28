@@ -1,5 +1,5 @@
 <h2 align="center">Hi there  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am<strong  width="40px"color="blue"> Delphin Kaduli </strong></h2>
-<h4 align="center">A passionate data scientist and Analyst skilled in Python, SQL, Machine learning, Tableau, Power BI, and Excel</h4>
+<h4 align="center">A passionate data scientist and Analyst skilled in Python, R, SQL, Machine learning, Tableau, Power BI, and Excel</h4>
 <br>
 
 ### -  💬 Ask me about Data science, analytics, and Machine learning.
