@@ -2,6 +2,7 @@
 <h4 align="left"> Currently focused on turning machine learning models into interactive, real-world applications.</h4>
 
 <h4> What I’m working on: </h4>
+
   - <b>Developing user-friendly interfaces</b> with Streamlit and FastAPI to make predictive models more accessible.
   
   - <b>Documenting each project  for smooth deployment and long-term usability using Docker, Git, and CI/CD pipelines.
