@@ -7,7 +7,7 @@ I’m pursuing my MSc in Data Analytics at The Catholic University of America, w
 
   - <b>Developing user-friendly interfaces</b> with Streamlit and FastAPI to make predictive models more accessible.
   
-  - <b>Documenting each project  for smooth deployment and long-term usability using Docker, Git, and CI/CD pipelines.
+  - <b> Documenting each project </b> for smooth deployment and long-term usability using Docker, Git, and CI/CD pipelines.
     
   - <b> Creating educational content</b> to help others apply data science in practical ways, soon to be shared on [LinkedIn](https://www.linkedin.com/in/delphin-kaduli/) and [Medium](https://medium.com/@delphin.kaduli).
 
