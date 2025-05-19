@@ -1,7 +1,7 @@
-<h2 align="left">Hi<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I’m<strong  width="15 px"color="blue"> Delphin K.(he/him) </strong></h2>
+#### <h2 align="left">Hi<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I’m<strong  width="15 px"color="blue"> Delphin K.(he/him) </strong></h2>
 <h4 align="left"> Currently focused on turning machine learning models into interactive, real-world applications.</h4>
 
-### What I’m working on:
+#### What I’m working on:
 - Developing user-friendly interfaces with Streamlit and FastAPI to make predictive models more accessible.
 - Documenting each project for smooth deployment and long-term usability using Docker, Git, and CI/CD pipelines.
 - Creating educational content to help others apply data science in practical ways, soon to be shared on LinkedIn and Medium.
