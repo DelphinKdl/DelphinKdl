@@ -7,9 +7,11 @@
   
   - <b>Documenting each project  for smooth deployment and long-term usability using Docker, Git, and CI/CD pipelines.
     
-  - <b> Creating educational content</b> to help others apply data science in practical ways, soon to be shared on LinkedIn and Medium.
+  - <b> Creating educational content</b> to help others apply data science in practical ways, soon to be shared on LinkedIn and Medium [https://medium.com/@delphin.kaduli](https://medium.com/@delphin.kaduli).
+  - 
 
 I’m pursuing my MSc in Data Analytics at The Catholic University of America, with a solid background in IT consulting, data wrangling (Pandas, SQL), data visualization (Matplotlib, Seaborn, Tableau, and Power BI), and machine learning (Scikit-learn). My career goal is to work as a **Data Scientist**, building tools that empower analysts, scientists, developers, and decision-makers alike.
+
 
 Let’s connect, whether you want to collaborate, exchange ideas, or share insights. I may respond slowly, but I always do.
 How to reach me: Email delphin.kaduli@gmail.com
