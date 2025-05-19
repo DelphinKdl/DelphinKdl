@@ -1,5 +1,5 @@
 <h2 align="left">Hi<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I’m<strong  width="20px"color="blue"> Delphin K.(he/him) </strong></h2>
-<h4 align="center"> Currently focused on turning machine learning models into interactive, real-world applications.</h4>
+<h4 align="left"> Currently focused on turning machine learning models into interactive, real-world applications.</h4>
 
 ### What I’m working on:
 - Developing user-friendly interfaces with Streamlit and FastAPI to make predictive models more accessible.
