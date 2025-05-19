@@ -21,7 +21,7 @@ I’m pursuing my MSc in Data Analytics at The Catholic University of America, w
 
 Let’s connect, whether you want to collaborate, exchange ideas, or share insights. I may respond slowly, but I always do.
 
-Reach out to me [mail](mailto:delphin.kaduli@gmail.com)
+Reach out to me via [mail](mailto:delphin.kaduli@gmail.com)
 
 <!-- ### My Stats ->
 <!-- ![DelphinKdl's GitHub stats](https://github-readme-stats.vercel.app/api?username=DelphinKdl&theme=transparent&show_icons=true) ->
