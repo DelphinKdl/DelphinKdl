@@ -20,7 +20,8 @@ I’m pursuing my MSc in Data Analytics at The Catholic University of America, w
 -  <b> AWS, Apache Kafka, Docker </b>
 
 Let’s connect, whether you want to collaborate, exchange ideas, or share insights. I may respond slowly, but I always do.
-How to reach me: [gmail](mailto:delphin.kaduli@gmail.com)
+
+Reach out to me [mail](mailto:delphin.kaduli@gmail.com)
 
 <!-- ### My Stats ->
 <!-- ![DelphinKdl's GitHub stats](https://github-readme-stats.vercel.app/api?username=DelphinKdl&theme=transparent&show_icons=true) ->
