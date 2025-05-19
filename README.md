@@ -17,7 +17,7 @@ I’m pursuing my MSc in Data Analytics at The Catholic University of America, w
 
 <h4>  I’m currently learning: </h4>
 
-    -  <b> AWS, Apache Kafka, Docker </b>
+-  <b> AWS, Apache Kafka, Docker </b>
 
 Let’s connect, whether you want to collaborate, exchange ideas, or share insights. I may respond slowly, but I always do.
 How to reach me: **delphin.kaduli@gmail.com**
