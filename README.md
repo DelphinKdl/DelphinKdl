@@ -12,10 +12,10 @@ I’m pursuing my MSc in Data Analytics at The Catholic University of America, w
   - <b> Creating educational content</b> to help others apply data science in practical ways, soon to be shared on [LinkedIn](https://www.linkedin.com/in/delphin-kaduli/) and [Medium](https://medium.com/@delphin.kaduli).
 
 <h4> Ask me about </h4>
-  - **SQL, Python, ML**
+   -  <b> </b>SQL, Python, ML</b>
 
 <h4>  I’m currently learning </h4>
-  - **AWS, Apache Kafka, Docker,**
+   - <b> AWS, Apache Kafka, Docker </b>
 
 Let’s connect, whether you want to collaborate, exchange ideas, or share insights. I may respond slowly, but I always do.
 How to reach me: **delphin.kaduli@gmail.com**
