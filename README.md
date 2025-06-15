@@ -9,7 +9,7 @@
     
   - **Creating educational content** to help others apply data science in practical ways, soon to be shared on [LinkedIn](https://www.linkedin.com/in/delphin-kaduli/) and [Medium](https://medium.com/@delphin.kaduli).
 
-I’m pursuing my **MSc in Data Analytics at The Catholic University of America,** with a solid background in **IT consulting, data wrangling (Pandas, SQL), data visualization (Matplotlib, Seaborn, Tableau, and Power BI), and machine learning (Scikit-learn)**. My career goal is to work in  **Data Career, might analytics or machine learning, building tools that empower analysts, scientists, developers, and decision-makers alike.
+I’m pursuing my **MSc in Data Analytics at The Catholic University of America,** with a solid background in **IT consulting, data wrangling (Pandas, SQL), data visualization (Matplotlib, Seaborn, Tableau, and Power BI), and machine learning (Scikit-learn)**. My career goal is to work with  **Data**, might learning or machine learning, building tools that empower analysts, scientists, developers, and decision-makers alike.
 
 
 <h4> Ask me about: </h4>
