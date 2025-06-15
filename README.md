@@ -1,4 +1,4 @@
-<h2 align="left">Hi<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I’m Delphin K. </strong></h2>
+<h2 align="left">Hey, I’m Delphin K. </strong></h2>
 <h4 align="left"> Currently focused on turning machine learning models into interactive, real-world applications.</h4>
 
 <h4> What I’m working on: </h4>
