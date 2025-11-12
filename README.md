@@ -1,28 +1,40 @@
-<h2 align="left">Hey, I’m Delphin K. </strong></h2>
-<h4 align="left"> Currently focused on turning machine learning models into interactive, real-world applications.</h4>
+<h2 align="left">Hey, I’m Delphin Kaduli </h2>
 
-<h4> What I’m working on: </h4>
+<h4 align="left">
+    I am a Data Analyst and  Data Scientist focused on transforming complex data into strategic, actionable insights that drive business growth and informed decision-making.
+</h4>
 
-  - **Developing user-friendly interfaces** with Streamlit and FastAPI to make predictive models more accessible.
-  
-  - **Documenting each project** for smooth deployment and long-term usability using Docker, Git, and CI/CD pipelines.
-    
-  - **Creating educational content** to help others apply data science in practical ways, soon to be shared on [LinkedIn](https://www.linkedin.com/in/delphin-kaduli/) and [Medium](https://medium.com/@delphin.kaduli).
+---
 
-I’m pursuing my **MSc in Data Analytics at The Catholic University of America,** with a solid background in **IT consulting, data wrangling (Pandas, SQL), data visualization (Matplotlib, Seaborn, Tableau, and Power BI), and machine learning (Scikit-learn)**. My career goal is to work with  **Data**, might learning or machine learning, building tools that empower analysts, scientists, developers, and decision-makers alike.
+###  Current Focus & Deliverables
 
+- **Strategic Reporting:** Building **robust dashboards and reports** with **Power BI and Tableau** to visually communicate key organizational performance metrics.
+- **Data Wrangling:** Mastering **Python (Pandas, SQL)** for advanced data cleaning, preparation, and structuring complex datasets for analysis.
+- **Modeling:** Applying **Statistical Modeling** and initial machine learning techniques to uncover predictive trends and patterns.
 
-<h4> Ask me about: </h4>
+---
 
-   -  <b> SQL, Python, ML</b>
+### Core Expertise
 
-<h4>  I’m currently learning: </h4>
+I am pursuing my MSc in Data Analytics at The Catholic University of America (Expected 2025). My solid background includes:
 
--  <b> AWS, Apache Kafka, Docker </b>
+* **Analytics & Wrangling:** **Python (Pandas, SQL)** for robust data manipulation and strategic analysis.
+* **Visualization & BI:** **Tableau, Power BI, Matplotlib, and Seaborn** for clear, strategic data communication.
+* **Modeling Foundation:** **Statistical Modeling** and **Scikit-learn** for predictive analysis.
+* **Infrastructure Skills:** Experience with **Git, Docker, and CI/CD concepts** for robust project delivery.
 
-**Let’s connect,** whether you want to collaborate, exchange ideas, or share insights. I may respond slowly, but I always do.
+My current career goal is to excel in **Data Analytics and Data Science** roles, building tools and reports that empower analysts, scientists, and key decision-makers alike.
+
+---
+
+###  Tech Stack & Future Learning
+
+| Ask me about: | Currently focused on: | Future Learning (ML/Ops): |
+| :--- | :--- | :--- |
+| **SQL, Python, ML,  Data Visualization, AWS Cloud Services** | **Power BI, Tableau, Advanced Statistics, AWS** | **AWS, Apache Kafka, Advanced MLOps** |
+
+---
+
+**Let’s connect!** I’m always open to collaboration, exchanging ideas, and sharing insights.
 
 Reach out to me via **[delphin.kaduli@gmail.com](mailto:delphin.kaduli@gmail.com)**
-
-<!-- ### My Stats ->
-<!-- ![DelphinKdl's GitHub stats](https://github-readme-stats.vercel.app/api?username=DelphinKdl&theme=transparent&show_icons=true) ->
