@@ -28,17 +28,16 @@
 
 **I don't just build models. I build answers.**
 
-I am a **Data Scientist & Analyst** based in Washington, DC, holding a **Master of Science in Data Analytics & Systems Engineering** from The Catholic University of America.
+I am a **Data Scientist & Analyst** based in Washington, DC, holding a **Master of Science in Data Analytics & Systems Engineering** 
 
 My background is rooted in action. I operate at the intersection of technical data engineering and business strategy. I specialize in building end-to-end data systems—from cleaning raw SQL datasets to deploying predictive Python models that drive measurable ROI.
 
-* 🔭 **I’m currently working on:** Advanced predictive modeling for financial risk.
-* 🎓 **I just graduated:** Master of Science (Class of 2025).
-* 🚀 **My philosophy:** Code is useless if it doesn't solve a business problem.
+*  **I just graduated:** Master of Science (Class of 2025).
+*  **My philosophy:** Code is useless if it doesn't solve a business problem.
 
 ---
 
-### 🛠 The Toolkit
+###  The Toolkit
 
 <div align="center">
 
@@ -53,19 +52,9 @@ My background is rooted in action. I operate at the intersection of technical da
 * **Data Engineering:** Building automated ETL pipelines and SQL warehousing.
 * **Business Intelligence:** Creating executive dashboards in **Tableau** and **Power BI**.
 * **Systems Engineering:** Optimizing data workflows for scalability and reliability.
-
+*  **Infrastructure:** Leveraging **Git, Docker, and CI/CD** concepts for robust project delivery.
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" />
-</a>
-</div>
 
 ---
 
