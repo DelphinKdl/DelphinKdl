@@ -5,7 +5,7 @@
 # Hey, I'm Delphin 👋
 *(Pronounced like Dolphin, but with an E)*
 
-### Data Scientist & Analyst | Systems Engineering
+### Data Scientist & Analyst 
 *Turning complex data into business decisions.*
 
 <br>
