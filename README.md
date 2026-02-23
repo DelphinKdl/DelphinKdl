@@ -30,10 +30,7 @@
 
 I am a **Data Scientist & Analyst** based in Washington, DC, holding a **Master of Science in Data Analytics & Systems Engineering** 
 
-My background is rooted in action. I operate at the intersection of technical data engineering and business strategy. I specialize in building end-to-end data systems—from cleaning raw SQL datasets to deploying predictive Python models that drive measurable ROI.
-
-*  **I just graduated:** Master of Science (Class of 2025).
-*  **My philosophy:** Code is useless if it doesn't solve a business problem.
+My background is rooted in action. I operate at the intersection of technical data engineering and business strategy. I specialize in building end-to-end data systems from cleaning raw SQL datasets to deploying predictive Python models that drive measurable ROI.
 
 ---
 
