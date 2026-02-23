@@ -22,8 +22,6 @@
 
 </div>
 
----
-
 ### 👨‍💻 About Me
 
 **I don't just build models. I build answers.**
