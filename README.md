@@ -51,8 +51,6 @@ My background is rooted in action. I operate at the intersection of technical da
 ---
 
 
----
-
 <div align="center">
 
 ### 🤝 Let’s Build Something.
