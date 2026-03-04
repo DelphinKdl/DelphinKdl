@@ -18,7 +18,7 @@
 ### The Philosophy
 **I don't just build models. I build answers.**
 
-I bridge the gap between technical engineering and business strategy. I specialize in architecting end-to-end systems from cleaning raw SQL datasets to deploying **CatBoost** predictive models on **AWS** that protect **ARR** and drive measurable **ROI**.
+I bridge the gap between technical engineering and business strategy. I specialize in architecting end-to-end systems from cleaning raw datasets to deploying **CatBoost** predictive models on **AWS** that protect **ARR** and drive measurable **ROI**.
 
 ---
 
