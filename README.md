@@ -18,7 +18,7 @@
 ### The Philosophy
 **I don't just build models. I build actionable business recommendations.**
 
-I bridge the gap between technical engineering and strategic decision-making. I specialize in architecting end-to-end data systems—from **SQL-driven ETL pipelines** in **Airflow** to deploying **CatBoost** predictive models on **AWS**. My core focus is translating complex datasets into executive-ready narratives that protect **ARR** and drive measurable **ROI**, particularly within the **FinTech** space.
+I bridge the gap between technical engineering and strategic decision-making. I specialize in architecting end-to-end data systems from **SQL-driven ETL pipelines** in **Airflow** to deploying **CatBoost** predictive models on **AWS**. My core focus is translating complex datasets into executive-ready narratives that protect **ARR** and drive measurable **ROI**, particularly within the **FinTech** space.
 
 ---
 
