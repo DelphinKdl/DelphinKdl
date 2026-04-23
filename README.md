@@ -3,8 +3,8 @@
 <img height="180" src="https://user-images.githubusercontent.com/97100091/170823363-d93b0210-4645-4c26-99d7-14c301d023e7.gif" />
 
 # Delphin K.
-### Data Scientist | Analytical Engineer
-**Predictive Systems • Revenue Optimization • Business Intelligence**
+### Data Scientist | Analytics Engineer
+**Predictive Systems • FinTech Analytics • Executive Data Storytelling**
 
 <a href="https://www.linkedin.com/in/delphin-kaduli/" target="_blank">
 <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
@@ -16,40 +16,41 @@
 </div>
 
 ### The Philosophy
-**I don't just build models. I build answers.**
+**I don't just build models. I build actionable business recommendations.**
 
-I bridge the gap between technical engineering and business strategy. I specialize in architecting end-to-end systems from cleaning raw datasets to deploying **CatBoost** predictive models on **AWS** that protect **ARR** and drive measurable **ROI**.
+I bridge the gap between technical engineering and strategic decision-making. I specialize in architecting end-to-end data systems—from **SQL-driven ETL pipelines** in **Airflow** to deploying **CatBoost** predictive models on **AWS**. My core focus is translating complex datasets into executive-ready narratives that protect **ARR** and drive measurable **ROI**, particularly within the **FinTech** space.
 
 ---
 
-### The Toolkit
+### The Integrated Toolkit
 
 <div align="center">
 
-| **Modeling & Analytics** | **Infrastructure & Cloud** | **Visualization & BI** |
+| **Advanced Analytics & BI** | **Data Science & ML** | **Data & Analytics Engineering** |
 |:---:|:---:|:---:|
-| `Python` `CatBoost` `Optuna` | `SQL` `AWS (EC2/Lambda)` | `Power BI (DAX)` |
-| `Scikit-Learn` `Pandas` | `Docker` `Git` `Flask` | `Plotly` `Seaborn` |
+| `SQL (CTEs, Window Functions)` | `Python` `CatBoost` `Optuna` | `Airflow (DAGs)` `dbt` `ETL/ELT` |
+| `Tableau` `Power BI (DAX)` `Looker` | `Scikit-Learn` `XGBoost` | `AWS (EC2/Lambda/S3)` |
+| `Excel (Power Query/VBA)` | `Pandas` `NumPy` `Optuna` | `Docker` `Git` `Flask` |
 
 </div>
 
-**Core Focus Areas:**
+**Core Expertise:**
 * **Predictive Systems:** Real-time Fraud Detection & Demand Forecasting (CatBoost, XGBoost).
-* **Revenue Optimization:** Churn mitigation and ARR protection through stratified modeling.
-* **Analytical Engineering:** Modular ML pipelines using `DataManager` and `PipelineRunner` patterns.
-* **Business Intelligence:** Transforming high-dimensional data into executive Power BI stories.
+* **Analytics Engineering:** Building modular, scalable data pipelines with **Airflow DAGs** and transitioning to **dbt** for warehouse-level modeling.
+* **FinTech Strategy:** Churn mitigation and ARR protection through stratified modeling and executive-facing recommendations.
+* **Data Storytelling:** Transforming high-dimensional data into **Tableau** and **Power BI** dashboards that drive C-suite strategy.
 
 ---
 
-### Featured Systems
-* 🚲 **Demand Forecasting:** Cloud-deployed API with a 51% MAE reduction using TimeSeriesSplit.
-* 📉 **Churn Prediction:** Targeted retention system protecting ARR with 0.64 precision.
-* 🛡️ **Fraud Detection:** Real-time predictive engine optimized for high-stakes financial security.
+### Featured Impact Systems
+* 🛡️ **Fraud Detection (FinTech Focus):** Real-time predictive engine optimized for high-stakes financial security and risk mitigation.
+* 🚲 **Demand Forecasting:** Cloud-deployed API with a **51% MAE reduction** using TimeSeriesSplit and automated retraining.
+* 📉 **Churn Prediction:** Targeted retention system protecting **ARR** with **0.64 precision**, identifying high-value at-risk customers for executive review.
 
 <div align="center">
 <br>
   
-###  Let's Connect
+### Let's Connect
 **Currently open to Full-time Roles | Washington, DC or Remote**
 
 [**Visit datawithdelphin.com**](https://www.datawithdelphin.com)
