@@ -4,7 +4,7 @@
 
 # Delphin K.
 ### Data Scientist | Analytics Engineer
-**Predictive Systems • FinTech Analytics • Executive Data Storytelling**
+**Predictive Systems • Analytics • Executive Data Storytelling**
 
 <a href="https://www.linkedin.com/in/delphin-kaduli/" target="_blank">
 <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
