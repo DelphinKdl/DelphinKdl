@@ -3,7 +3,7 @@
 <img height="180" src="https://user-images.githubusercontent.com/97100091/170823363-d93b0210-4645-4c26-99d7-14c301d023e7.gif" />
 
 # Delphin K.
-### Data Scientist | Fraud Analytics Engineer  
+### Data | Fraud Analytics Engineer  
 **Fraud Detection • Risk Analytics • Data Engineering**
 
 <a href="https://www.linkedin.com/in/delphin-kaduli/" target="_blank">
