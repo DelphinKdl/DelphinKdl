@@ -1,4 +1,4 @@
-# Delphin Kaduli
+#
 
 <p align="center">
   <img src="cards/hero.svg" alt="Delphin Kaduli | Fraud and Risk Analytics, Data Science, Analytics Engineering" width="100%" />
