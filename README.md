@@ -52,9 +52,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <a href="https://datawithdelphin.com/en">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/delphin-kaduli">LinkedIn</a> ·
-  <a href="https://github.com/DelphinKdl">GitHub</a>
-</p>
