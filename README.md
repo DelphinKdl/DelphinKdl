@@ -23,13 +23,13 @@
 </a>
 
 ## GitHub activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DelphinKdl&show_icons=true&hide_border=true&bg_color=FAFAFA&title_color=351B4B&text_color=64748B&icon_color=76548F&ring_color=76548F" width="49%" alt="GitHub profile statistics" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DelphinKdl&hide_border=true&background=FAFAFA&ring=76548F&fire=351B4B&currStreakLabel=351B4B&sideLabels=64748B&dates=64748B" width="49%" alt="GitHub contribution streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DelphinKdl&hide_border=true&background=FAFAFA&ring=76548F&fire=351B4B&currStreakLabel=351B4B&sideLabels=64748B&dates=64748B" width="100%" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DelphinKdl&bg_color=FAFAFA&color=351B4B&line=76548F&point=351B4B&area=true&hide_border=true" width="100%" alt="GitHub activity graph" />
+  <img src="https://ghchart.rshah.org/351B4B/DelphinKdl" width="100%" alt="Delphin's GitHub Contribution Chart" />
 </p>
 
 ## Tools I work with
@@ -37,6 +37,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,postgres,mysql,aws,docker,airflow,git,github,fastapi" alt="Python, PostgreSQL, MySQL, AWS, Docker, Airflow, GitHub, and FastAPI" />
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/scikit--learn-351B4B?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/XGBoost-351B4B?style=for-the-badge" alt="XGBoost" />
@@ -45,5 +46,3 @@
   <img src="https://img.shields.io/badge/Tableau-351B4B?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
   <img src="https://img.shields.io/badge/Power%20BI-351B4B?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI" />
 </p>
-
----
