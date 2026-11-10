@@ -38,6 +38,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DelphinKdl&bg_color=FAFAFA&color=351B4B&line=76548F&point=351B4B&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
 </p>
+
 ## Tools I work with
 
 <p align="center">
