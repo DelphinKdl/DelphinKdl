@@ -31,13 +31,13 @@
 ## GitHub activity
 
 <p align="center">
-  <img src="cards/activity.svg" alt="GitHub activity overview" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DelphinKdl&show_icons=true&hide_border=true&bg_color=FAFAFA&title_color=351B4B&text_color=64748B&icon_color=76548F&ring_color=76548F" width="49%" alt="GitHub profile statistics" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DelphinKdl&hide_border=true&background=FAFAFA&ring=76548F&fire=351B4B&currStreakLabel=351B4B&sideLabels=64748B&dates=64748B" width="49%" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
-  <img src="cards/contribution-graph.svg" alt="Contribution history" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DelphinKdl&bg_color=FAFAFA&color=351B4B&line=76548F&point=351B4B&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
 </p>
-
 ## Tools I work with
 
 <p align="center">
