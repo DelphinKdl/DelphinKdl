@@ -22,19 +22,14 @@
   <img src="cards/repo-3.svg" alt="Demand Forecasting: hour-ahead bike rental demand forecasting" width="100%" />
 </a>
 
-<a href="https://github.com/DelphinKdl/-Data-analysis-project-Data-Driven-Insights-for-Indian-Startup-Growth">
-  <img src="cards/repo-4.svg" alt="Indian Startup Funding Analysis: exploratory data analysis and hypothesis testing" width="100%" />
-</a>
-
 ## GitHub activity
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DelphinKdl&show_icons=true&hide_border=true&bg_color=FAFAFA&title_color=351B4B&text_color=64748B&icon_color=76548F&ring_color=76548F" width="49%" alt="GitHub profile statistics" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DelphinKdl&hide_border=true&background=FAFAFA&ring=76548F&fire=351B4B&currStreakLabel=351B4B&sideLabels=64748B&dates=64748B" width="49%" alt="GitHub contribution streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DelphinKdl&show_icons=true&hide_border=true&bg_color=FAFAFA&title_color=351B4B&text_color=64748B&icon_color=76548F&ring_color=76548F&cache_seconds=1800&t=1" width="49%" alt="GitHub profile statistics" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DelphinKdl&hide_border=true&background=FAFAFA&ring=76548F&fire=351B4B&currStreakLabel=351B4B&sideLabels=64748B&dates=64748B&t=1" width="49%" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DelphinKdl&bg_color=FAFAFA&color=351B4B&line=76548F&point=351B4B&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DelphinKdl&bg_color=FAFAFA&color=351B4B&line=76548F&point=351B4B&area=true&hide_border=true&t=1" width="100%" alt="GitHub activity graph" />
 </p>
 
 ## Tools I work with
