@@ -11,11 +11,11 @@
 ## Featured work
 
 <a href="https://github.com/DelphinKdl/Fraud-Detection">
-  <img src="cards/repo-1.svg" alt="Fraud Detection: machine learning for suspicious financial transactions" width="100%" />
+  <img src="cards/repo-1.svg" alt=" Fraud-Detection: ML classification model for identifying fraudulent financial transactions and supporting real-time intervention." width="100%" />
 </a>
 
-<a href="https://github.com/DelphinKdl/CUA-MDA-Capstone-BaaS-Risk-Monitoring">
-  <img src="cards/repo-2.svg" alt="Banking as a Service Risk Monitoring: fraud detection dashboard for core banking and AML use cases" width="100%" />
+<a href="https://github.com/DelphinKdl/metro-transit-etl-pipeline">
+  <img src="cards/repo-2.svg" alt="Data engineering with Airflow, Docker, PostgreSQL, and Bronze → Silver → Gold Medallion Architecture." width="100%" />
 </a>
 
 <a href="https://github.com/DelphinKdl/Demand-Forecasting">
