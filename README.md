@@ -24,12 +24,12 @@
 
 ## GitHub activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DelphinKdl&show_icons=true&hide_border=true&bg_color=FAFAFA&title_color=351B4B&text_color=64748B&icon_color=76548F&ring_color=76548F&cache_seconds=1800&t=1" width="49%" alt="GitHub profile statistics" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DelphinKdl&hide_border=true&background=FAFAFA&ring=76548F&fire=351B4B&currStreakLabel=351B4B&sideLabels=64748B&dates=64748B&t=1" width="49%" alt="GitHub contribution streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DelphinKdl&show_icons=true&hide_border=true&bg_color=FAFAFA&title_color=351B4B&text_color=64748B&icon_color=76548F&ring_color=76548F" width="49%" alt="GitHub profile statistics" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DelphinKdl&hide_border=true&background=FAFAFA&ring=76548F&fire=351B4B&currStreakLabel=351B4B&sideLabels=64748B&dates=64748B" width="49%" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DelphinKdl&bg_color=FAFAFA&color=351B4B&line=76548F&point=351B4B&area=true&hide_border=true&t=1" width="100%" alt="GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DelphinKdl&bg_color=FAFAFA&color=351B4B&line=76548F&point=351B4B&area=true&hide_border=true" width="100%" alt="GitHub activity graph" />
 </p>
 
 ## Tools I work with
