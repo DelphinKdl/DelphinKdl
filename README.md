@@ -41,7 +41,15 @@
 ## Tools I work with
 
 <p align="center">
-  **Python** · **SQL** · **scikit-learn** · **XGBoost** · **CatBoost** · **Airflow** · **dbt** · **AWS** · **Docker** · **Tableau** · **Power BI** · **FastAPI**
+  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,aws,docker,airflow,git,github,fastapi" alt="Python, PostgreSQL, MySQL, AWS, Docker, Airflow, GitHub, and FastAPI" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/scikit--learn-351B4B?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/XGBoost-351B4B?style=for-the-badge" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/CatBoost-351B4B?style=for-the-badge" alt="CatBoost" />
+  <img src="https://img.shields.io/badge/dbt-351B4B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
+  <img src="https://img.shields.io/badge/Tableau-351B4B?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Power%20BI-351B4B?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI" />
 </p>
 
 ---
